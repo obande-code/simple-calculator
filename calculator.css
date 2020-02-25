@@ -1,0 +1,44 @@
+
+body{
+	background:linear-gradient(to right, #37051d, #63053b, #900260, #be038b, #eb12bc);
+	padding: 0;
+	margin:0;
+}
+#inputLabel{
+	background-color:black;
+	color: white;
+	height:70px;
+	font-size:30px;
+	vertical-align:bottom;
+	text-align:right;
+	padding:10px;
+	border:none;
+}
+#container{
+	margin:120px auto;
+	width:320px;
+	cursor:pointer;
+}
+table{
+	width: 100%;
+	border-color: #f4f4f4;
+}
+td{
+	width: 25%;
+}
+button{
+	width: 100%;
+	height:65px;
+	font-size: 24px;
+	border-radius:3px;
+	border:none;
+}
+button:hover{
+	color:#F872A0;
+	background-color:#BCF1F4;
+}
+.calcu{
+	color:white;
+	text-align:center;
+	font-family:cursive;
+}
